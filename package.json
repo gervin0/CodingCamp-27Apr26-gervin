@@ -1,0 +1,12 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "Personal expense tracker",
+  "main": "app.js",
+  "scripts": {
+    "test": "node tests/state.test.js"
+  },
+  "devDependencies": {
+    "fast-check": "^3.22.0"
+  }
+}
